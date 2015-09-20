@@ -1,0 +1,29 @@
+{
+  "name": "betsol-ng-previous-url",
+  "description": "Tracks previous URL in Angular.js",
+  "version": "0.0.0",
+  "main": "dist/betsol-ng-previous-url.js",
+  "ignore": [
+    "src",
+    "test",
+    ".*",
+    "gulpfile.js",
+    "karma.conf.js",
+    "package.json"
+  ],
+  "devDependencies": {
+    "angular": "~1",
+    "angular-mocks": "~1.4.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/betsol/ng-previous-url.git"
+  },
+  "keywords": [
+    "angular",
+    "angular.js",
+    "location",
+    "redirect",
+    "url"
+  ]
+}
